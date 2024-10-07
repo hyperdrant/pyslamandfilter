@@ -1,0 +1,37 @@
+Date and Time: 2024-09-03 16:22:09
+Total Extracted Features: 1752
+Total Unique Features: 683
+Matches: 1069
+Percentage: 10%
+Number of selected best features: 68
+
+Weights:
+  corner_score: 0.7
+  semantic_class: 1.5
+  depth: 0.5
+  entropy: 0.4
+  observability: 1.4
+  std_deviation: 0.6
+  contrast: 0.3
+  robustness: 0.4
+
+Class Scores:
+  road (0): 0.5
+  sidewalk (1): 0.6
+  building (2): 0.9
+  wall (3): 0.8
+  fence (4): 0.6
+  pole (5): 0.7
+  traffic light (6): 0.8
+  traffic sign (7): 1.0
+  vegetation (8): 0.2
+  terrain (9): 0.3
+  sky (10): 0.0
+  person (11): 0.0
+  rider (12): 0.0
+  car (13): 0.0
+  truck (14): 0.0
+  bus (15): 0.0
+  train (16): 0.0
+  motorcycle (17): 0.0
+  bicycle (18): 0.0
